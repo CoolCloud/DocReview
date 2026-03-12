@@ -1,11 +1,25 @@
 #!/usr/bin/env python3
 """批量测试 MacBERT 模型效果"""
 
+import sys
+from pathlib import Path
+
+# 添加项目根目录到 Python 路径
+project_root = Path(__file__).parent.parent.parent
+sys.path.insert(0, str(project_root))
+
 from doc_review_macbert.predict import DocReviewPredictor
 
 def main():
-    # 加载模型
-    predictor = DocReviewPredictor(model_path="../models/best_model")
+    # 加载模型（使用相对于项目根目录的路径）
+    model_path = project_root / "doc_review_macbert" / "models" / "best_model"
+    
+    if not model_path.exists():
+        print(f"❌ 模型不存在: {model_path}")
+        print("请先训练模型或确认模型路径正确")
+        sys.exit(1)
+    
+    predictor = DocReviewPredictor(model_path=str(model_path))
     
     # 测试样例
     test_cases = [

@@ -1,10 +1,24 @@
 """
 快速测试脚本
 """
-from predict import SentimentPredictor
+import sys
+from pathlib import Path
+
+# 添加项目根目录到 Python 路径
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
+from sentiment_analysis.predict import SentimentPredictor
 
 print("加载模型...")
-predictor = SentimentPredictor('sentiment_analysis/sentiment_models/best_model.pth')
+model_path = Path(__file__).parent / 'sentiment_models' / 'best_model.pth'
+
+if not model_path.exists():
+    print(f"❌ 模型不存在: {model_path}")
+    print("请先训练模型或确认模型路径正确")
+    sys.exit(1)
+
+predictor = SentimentPredictor(str(model_path))
 
 # 测试样本
 test_samples = [
