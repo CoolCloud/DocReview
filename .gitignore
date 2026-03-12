@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyTorch Models (large files)
+models/*/
+!models/.gitkeep
+
+# Training outputs
+*.log
+*.ckpt
+*.safetensors
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (可选，如果数据太大)
+# data/*.jsonl
+# data/*.json
+
+# Test outputs
+output/
+results/
