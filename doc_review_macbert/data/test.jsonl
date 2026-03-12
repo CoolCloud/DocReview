@@ -1,0 +1,200 @@
+{"id": "test_1", "text": "会议强调，各部门要增加质量。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_2", "text": "为加强工作，要求各单位水准提高。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_3", "text": "通知要求，奖成制度相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_4", "text": "为确保效果，请<办法>规定。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_5", "text": "为推进工作，现要求谢谢。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_6", "text": "为加强工作，要求各单位保护权益。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_7", "text": "为推进工作，现要求第一，第二，第三。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_8", "text": "会议强调，各部门要贯切落实。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_9", "text": "根据上级文件精神，提高条件。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_10", "text": "为加强工作，要求各单位水准提高。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_11", "text": "为加强工作，要求各单位大家。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_12", "text": "通知要求，权力相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_13", "text": "各级各部门要取的成绩，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_14", "text": "为确保效果，请第一，第二，第三。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_15", "text": "经研究决定，各单位应关于'通知'的说明。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_16", "text": "通知要求，奖成制度相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_17", "text": "为加强工作，要求各单位任真负责。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_18", "text": "会议强调，各部门要提高数量。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_19", "text": "通知要求，复合要求相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_20", "text": "经研究决定，各单位应请好好做。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_21", "text": "经研究决定，各单位应<办法>规定。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_22", "text": "通知要求，请好好做相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_23", "text": "通知要求，增强管理相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_24", "text": "为加强工作，要求各单位增加质量。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_25", "text": "各级各部门要增强管理，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_26", "text": "为加强工作，要求各单位【重要】。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_27", "text": "为确保效果，请贯切落实。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_28", "text": "会议强调，各部门要大家。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_29", "text": "通知要求，关与此事相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_30", "text": "根据上级文件精神，提高数量。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_31", "text": "会议强调，各部门要请好好做。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_32", "text": "通知要求，【重要】相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_33", "text": "经研究决定，各单位应加强意识。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_34", "text": "为加强工作，要求各单位增强管理。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_35", "text": "根据上级文件精神，旅行职责。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_36", "text": "为确保效果，请加强意识。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_37", "text": "根据上级文件精神，缓慢的前进。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_38", "text": "通知要求，增强管理相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_39", "text": "为推进工作，现要求任真负责。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_40", "text": "为加强工作，要求各单位第一，第二，第三。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_41", "text": "通知要求，奖成制度相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_42", "text": "通知要求，奖成制度相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_43", "text": "经研究决定，各单位应加强意识。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_44", "text": "为确保效果，请【重要】。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_45", "text": "为加强工作，要求各单位保护权益。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_46", "text": "经研究决定，各单位应增加质量。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_47", "text": "根据上级文件精神，协凋各方。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_48", "text": "通知要求，请好好做相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_49", "text": "为加强工作，要求各单位有效地方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_50", "text": "为加强工作，要求各单位大家。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_51", "text": "为推进工作，现要求<办法>规定。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_52", "text": "通知要求，截至日期相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_53", "text": "根据上级文件精神，加强意识。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_54", "text": "各级各部门要提高数量，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_55", "text": "各级各部门要请好好做，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_56", "text": "各级各部门要深入的研究，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_57", "text": "根据上级文件精神，加强意识。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_58", "text": "根据上级文件精神，谢谢。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_59", "text": "经研究决定，各单位应做的好。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_60", "text": "通知要求，旅行职责相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_61", "text": "根据上级文件精神，起事通知。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_62", "text": "为确保效果，请坚特原则。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_63", "text": "为确保效果，请跑的快。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_64", "text": "根据上级文件精神，必需完成。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_65", "text": "通知要求，关于'通知'的说明相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_66", "text": "为确保效果，请根据规定，。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_67", "text": "会议强调，各部门要扎实的落实。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_68", "text": "为确保效果，请跑的快。", "labels": ["O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_69", "text": "各级各部门要任真负责，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_70", "text": "经研究决定，各单位应奖成制度。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_71", "text": "各级各部门要认真地态度，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_72", "text": "根据上级文件精神，保护权益。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_73", "text": "各级各部门要起用新系统，抓好落实。", "labels": ["O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_74", "text": "根据上级文件精神，旅行职责。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_75", "text": "根据上级文件精神，截至日期。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_76", "text": "通知要求，请好好做相关工作。", "labels": ["O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O", "O", "O", "O", "O"], "has_error": true}
+{"id": "test_77", "text": "根据上级文件精神，任真负责。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_78", "text": "会议强调，各部门要大家。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_79", "text": "会议强调，各部门要大家。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_80", "text": "为加强工作，要求各单位根据规定，。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "I-ERROR", "O"], "has_error": true}
+{"id": "test_81", "text": "根据上级文件精神，创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_82", "text": "会议讨论并通过了考核标准，要求各单位抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_83", "text": "现将安全检查的有关事项通知如下：一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_84", "text": "责任部门要切实履行职责，做好宣传工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_85", "text": "为贯彻落实决策部署，抓好落实工作，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_86", "text": "各单位要高度重视，抓好落实工作，确保形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_87", "text": "通知事项工作开展以来，取得了显著成效。坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_88", "text": "为贯彻落实会议精神，统筹协调推进，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_89", "text": "为贯彻落实决策部署，创新工作方法，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_90", "text": "会议讨论并通过了工作方案，要求各单位做好宣传工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_91", "text": "关于工作方案，经领导批准，抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_92", "text": "为贯彻落实工作部署，优化工作流程，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_93", "text": "安全检查工作开展以来，取得了显著成效。一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_94", "text": "会议讨论并通过了管理办法，要求各单位统筹协调推进。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_95", "text": "经研究，同意会议精神，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_96", "text": "经研究，同意管理办法，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_97", "text": "为贯彻落实相关规定，抓好落实工作，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_98", "text": "为贯彻落实工作部署，提高工作效率，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_99", "text": "各单位要高度重视，强化责任担当，确保工作任务按期完成。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_100", "text": "为进一步做好宣传工作，现提出以下要求：各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_101", "text": "为进一步抓好落实工作，现提出以下要求：加强统筹协调，提高工作质量和效率", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_102", "text": "会议讨论并通过了会议精神，要求各单位认真组织学习。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_103", "text": "按照工作部署，加强监督检查，现已达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_104", "text": "按照工作部署，强化责任担当，现已达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_105", "text": "根据上级文件精神，认真组织学习。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_106", "text": "会议讨论并通过了会议精神，要求各单位完善相关制度。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_107", "text": "按照工作部署，统筹协调推进，现已各项工作顺利开展。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_108", "text": "为提升服务水平，经研究决定，优化工作流程。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_109", "text": "工作方案工作开展以来，取得了显著成效。各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_110", "text": "关于通知事项，经领导批准，创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_111", "text": "考核标准工作开展以来，取得了显著成效。加强统筹协调，提高工作质量和效率", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_112", "text": "各单位要高度重视，强化责任担当，确保各项工作顺利开展。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_113", "text": "为规范管理制度，经研究决定，统筹协调推进。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_114", "text": "工作方案工作开展以来，取得了显著成效。各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_115", "text": "经研究，同意工作方案，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_116", "text": "工作方案工作开展以来，取得了显著成效。一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_117", "text": "根据上级文件精神，强化责任担当。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_118", "text": "各单位各部门要切实履行职责，提高工作效率。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_119", "text": "为进一步完善相关制度，现提出以下要求：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_120", "text": "各单位要高度重视，做好宣传工作，确保达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_121", "text": "为贯彻落实相关规定，抓好落实工作，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_122", "text": "各单位要高度重视，创新工作方法，确保形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_123", "text": "按照工作部署，加强监督检查，现已工作任务按期完成。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_124", "text": "各单位要高度重视，抓好落实工作，确保达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_125", "text": "关于培训计划，经领导批准，完善相关制度。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_126", "text": "为贯彻落实决策部署，加强监督检查，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_127", "text": "各级各部门要切实履行职责，强化责任担当。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_128", "text": "为贯彻落实相关规定，强化责任担当，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_129", "text": "会议讨论并通过了考核标准，要求各单位优化工作流程。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_130", "text": "经研究，同意管理办法，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_131", "text": "为贯彻落实工作部署，提高工作效率，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_132", "text": "经研究，同意通知事项，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_133", "text": "会议精神工作开展以来，取得了显著成效。坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_134", "text": "经研究，同意实施细则，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_135", "text": "现将实施细则的有关事项通知如下：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_136", "text": "按照工作部署，做好宣传工作，现已各项工作顺利开展。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_137", "text": "为贯彻落实相关规定，提高工作效率，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_138", "text": "为进一步做好宣传工作，现提出以下要求：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_139", "text": "会议讨论并通过了工作方案，要求各单位创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_140", "text": "按照工作部署，深入调研论证，现已各项工作顺利开展。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_141", "text": "为贯彻落实工作部署，完善相关制度，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_142", "text": "为进一步认真组织学习，现提出以下要求：加强统筹协调，提高工作质量和效率", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_143", "text": "现将管理办法的有关事项通知如下：一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_144", "text": "会议讨论并通过了实施细则，要求各单位认真组织学习。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_145", "text": "各单位要高度重视，抓好落实工作，确保形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_146", "text": "会议讨论并通过了安全检查，要求各单位及时报送材料。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_147", "text": "会议讨论并通过了通知事项，要求各单位强化责任担当。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_148", "text": "根据上级文件精神，抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_149", "text": "会议讨论并通过了培训计划，要求各单位优化工作流程。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_150", "text": "为进一步深入调研论证，现提出以下要求：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_151", "text": "根据上级文件精神，优化工作流程。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_152", "text": "为贯彻落实会议精神，及时报送材料，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_153", "text": "责任部门要切实履行职责，及时报送材料。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_154", "text": "关于通知事项，经领导批准，及时报送材料。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_155", "text": "为加强组织建设，经研究决定，创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_156", "text": "按照工作部署，深入调研论证，现已圆满完成任务。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_157", "text": "按照工作部署，统筹协调推进，现已形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_158", "text": "工作方案工作开展以来，取得了显著成效。加强统筹协调，提高工作质量和效率", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_159", "text": "为规范管理制度，经研究决定，抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_160", "text": "责任部门要切实履行职责，统筹协调推进。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_161", "text": "通知事项工作开展以来，取得了显著成效。坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_162", "text": "现将培训计划的有关事项通知如下：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_163", "text": "按照工作部署，提高工作效率，现已形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_164", "text": "为加强组织建设，经研究决定，加强监督检查。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_165", "text": "关于会议精神，经领导批准，强化责任担当。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_166", "text": "现将会议精神的有关事项通知如下：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_167", "text": "会议精神工作开展以来，取得了显著成效。坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_168", "text": "为贯彻落实决策部署，认真组织学习，取得实效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_169", "text": "为进一步抓好落实工作，现提出以下要求：各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_170", "text": "相关职能部门要切实履行职责，完善相关制度。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_171", "text": "责任部门要切实履行职责，提高工作效率。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_172", "text": "按照工作部署，优化工作流程，现已工作任务按期完成。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_173", "text": "根据上级文件精神，抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_174", "text": "领导小组成员单位要切实履行职责，抓好落实工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_175", "text": "为规范管理制度，经研究决定，创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_176", "text": "各单位要高度重视，深入调研论证，确保取得预期成效。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_177", "text": "根据上级文件精神，完善相关制度。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_178", "text": "各单位要高度重视，深入调研论证，确保形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_179", "text": "为进一步创新工作方法，现提出以下要求：各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_180", "text": "各单位要高度重视，创新工作方法，确保工作任务按期完成。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_181", "text": "按照工作部署，深入调研论证，现已各项工作顺利开展。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_182", "text": "为进一步创新工作方法，现提出以下要求：各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_183", "text": "实施细则工作开展以来，取得了显著成效。一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_184", "text": "按照工作部署，统筹协调推进，现已达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_185", "text": "根据上级文件精神，加强监督检查。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_186", "text": "为提升服务水平，经研究决定，优化工作流程。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_187", "text": "会议讨论并通过了管理办法，要求各单位做好宣传工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_188", "text": "为进一步认真组织学习，现提出以下要求：各部门要密切配合，形成工作合力", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_189", "text": "为推进工作开展，经研究决定，做好宣传工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_190", "text": "关于管理办法，经领导批准，做好宣传工作。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_191", "text": "按照工作部署，优化工作流程，现已达到预期目标。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_192", "text": "培训计划工作开展以来，取得了显著成效。坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_193", "text": "各级各部门要切实履行职责，创新工作方法。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_194", "text": "现将会议精神的有关事项通知如下：坚持问题导向，确保工作落到实处", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_195", "text": "各单位要高度重视，完善相关制度，确保形成良好工作局面。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_196", "text": "为进一步抓好落实工作，现提出以下要求：加强统筹协调，提高工作质量和效率", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_197", "text": "根据上级文件精神，统筹协调推进。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_198", "text": "为改进工作作风，经研究决定，加强监督检查。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_199", "text": "为进一步抓好落实工作，现提出以下要求：一是强化组织领导；二是明确工作职责；三是加强督促检查", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}
+{"id": "test_200", "text": "经研究，同意会议精神，请认真贯彻执行。", "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"], "has_error": false}

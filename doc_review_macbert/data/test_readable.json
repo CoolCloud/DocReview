@@ -1,0 +1,220 @@
+[
+  {
+    "id": "test_1",
+    "text": "会议强调，各部门要增加质量。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_2",
+    "text": "为加强工作，要求各单位水准提高。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_3",
+    "text": "通知要求，奖成制度相关工作。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_4",
+    "text": "为确保效果，请<办法>规定。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_5",
+    "text": "为推进工作，现要求谢谢。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_6",
+    "text": "为加强工作，要求各单位保护权益。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_7",
+    "text": "为推进工作，现要求第一，第二，第三。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_8",
+    "text": "会议强调，各部门要贯切落实。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_9",
+    "text": "根据上级文件精神，提高条件。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  },
+  {
+    "id": "test_10",
+    "text": "为加强工作，要求各单位水准提高。",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "I-ERROR",
+      "O"
+    ],
+    "has_error": true
+  }
+]

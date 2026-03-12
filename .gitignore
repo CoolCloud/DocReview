@@ -23,14 +23,20 @@ env/
 .vscode/
 *.code-workspace
 
-# PyTorch Models (使用 Git LFS 追踪)
-# models/*/ 已注释，使用 Git LFS 管理大文件
-!models/.gitkeep
+# PyTorch Models - 排除所有模型文件
+models/
+*/models/
+*/*/models/
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+*.h5
+*.onnx
+training_history.json
 
 # Training outputs
 *.log
-*.ckpt
-# *.safetensors  已注释，通过 Git LFS 追踪
 
 # Jupyter Notebook
 .ipynb_checkpoints
